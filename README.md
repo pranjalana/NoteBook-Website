@@ -5,9 +5,13 @@ Welcome to my NoteBook Website repository! This project is a personal notebook w
 ------Features------
 
 📚 Organized notes and tutorials
+
 🛠️ Showcase of personal projects
+
 🔗 Links to helpful coding resources
+
 💡 Reflections and learning experiences
+
 
 ------Getting Started------
 
